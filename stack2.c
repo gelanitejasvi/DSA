@@ -1,4 +1,4 @@
-// LIFO / FIFO
+// LIFO / FIFO =>last input first output / first input first output
 
 #include <stdio.h>
 #define n 5
